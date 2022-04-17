@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VolunteerKZ/app/src/main/res/drawable/custom_input.xml" value="0.3453703703703704" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/drawable/divider.xml" value="0.23489583333333333" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/drawable/ic_email_icon.xml" value="0.22083333333333333" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/drawable/ic_password_icon.xml" value="0.22083333333333333" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/layout/login_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/VolunteerKZ/app/src/main/res/layout/registration_fragment.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
